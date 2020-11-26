@@ -1,0 +1,14 @@
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csprojAssemblyReference.cache
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.AssemblyInfoInputs.cache
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.AssemblyInfo.cs
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.deps.json
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.runtimeconfig.json
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.runtimeconfig.dev.json
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.dll
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\ConsoleTester.pdb
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\Tracer.pdb
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.csproj.CopyComplete
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.dll
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\obj\Debug\netcoreapp2.0\ConsoleTester.pdb
+C:\Users\Fiodor\Documents\BSUIR\3\SPP\1. Tracer\Tracer\ConsoleTester\bin\Debug\netcoreapp2.0\Tracer.dll

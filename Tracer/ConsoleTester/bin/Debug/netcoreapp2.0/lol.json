@@ -1,0 +1,15 @@
+{
+  "ThreadsList": [
+    {
+      "Id": 0,
+      "Time": 365,
+      "Methods": [
+        {
+          "Name": "Method2",
+          "Class": "Program",
+          "Time": 365
+        }
+      ]
+    }
+  ]
+}
